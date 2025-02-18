@@ -1,0 +1,1 @@
+export const MONGO_URI="mongodb+srv://yasin:107149@foodDB.vcn4tfr.mongodb.net/";
