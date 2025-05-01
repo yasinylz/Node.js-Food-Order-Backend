@@ -1,5 +1,5 @@
 # Node.js-Food-Order-Backend
-Tabii ki! Verdiğiniz kodlar, bir Node.js ve Express.js tabanlı bir backend projesine ait gibi görünüyor. Bu proje, bir yemek sipariş sistemi (örneğin bir restoran veya teslimat platformu) için bir API sunucusu gibi çalışıyor. Müşteriler, satıcılar (vendor), teslimat kullanıcıları ve yemek siparişleri gibi işlevsellikleri içeriyor. Şimdi adım adım bu projeyi nasıl kuracağınızı, ne tür bir proje olduğunu ve bir README.md dosyası nasıl oluşturacağınızı açıklayacağım.
+ 
 
 Bu Proje Nedir?
 Bu proje, bir yemek sipariş ve teslimat platformu için backend API'sini oluşturuyor. Temel özellikler şunlar:
